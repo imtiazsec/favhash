@@ -10,3 +10,6 @@
 
 ➜ python3 favhash.py http://target.com/favicon.ico
 ➜ cat target.txt | xargs -P 1 -I % bash -c "python3 favhash.py '%/favicon.ico' && echo % && echo '------------------------------------'"
+
+- Search in Shodan:
+https://www.shodan.io/search?query=http.favicon.hash%3A1848946384
