@@ -4,8 +4,8 @@
 ## Usage
 
 ```
-➜ git clone https://github.com/phor3nsic/favicon_hash_shodan.git
-➜ cd favicon_hash_shodan
+➜ git clone https://github.com/imtiazsec/favhash.git
+➜ cd favhash
 ➜ pip3 install -r requirements.txt
 
 [!] Usage:
